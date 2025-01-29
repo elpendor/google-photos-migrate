@@ -4,7 +4,7 @@ export const editedSuffices = [
   'modifié',
   'düzenlendi',
   'измененный',
-  'ha editado',
+  'editado',
   '編集済み',
 ];
 export const photosDirs = [
